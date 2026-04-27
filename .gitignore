@@ -1,0 +1,9 @@
+Pods/
+.DS_Store
+xcuserdata/
+*.xcworkspace/xcuserdata/
+Pods/
+build/
+.DS_Store
+*.xcworkspace
+xcuserdata/
